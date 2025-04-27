@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import NoteCard from "./noteCard";
+import NoteCard from "./NoteCard";
 // import LoadingSpinner from "../common/LoadingSpinner";
 
 const NoteCardWrapper = () => {
